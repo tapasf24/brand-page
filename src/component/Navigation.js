@@ -9,6 +9,7 @@ function Navigation() {
         </div>
         <ul>
           <li href="#">Menu</li>
+          <li href="#">Store</li>
           <li href="#">Location</li>
           <li href="#">About</li>
           <li href="#">Contact</li>
